@@ -1,0 +1,33 @@
+{
+  "name": "paella.js",
+  "version": "0.0.1",
+  "description": "Standard model, full data construction and front-end view for developing complete, non-mutable and opinionated paella",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Testing is for pussies\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cidwel/paella.js.git"
+  },
+  "keywords": [
+    "paella",
+    "es",
+    "bueno",
+    "for",
+    "you"
+  ],
+  "author": "cidwel",
+  "contributors": [
+    "keropodium"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cidwel/paella.js/issues"
+  },
+  "homepage": "https://github.com/cidwel/paella.js#readme",
+  "dependencies": {
+    "inquirer": "^1.2.1"
+  }
+}
