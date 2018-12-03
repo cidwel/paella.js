@@ -6,4 +6,3 @@ Paella.js ingredients
 * tomato
 * rice
 * green beans
-* chorizo
