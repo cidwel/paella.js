@@ -14,7 +14,7 @@ var questions = [
     type: 'list',
     name: 'favouriteIngredient',
     message: 'Whats your favourite paella ingredient?',
-    choices: ['Chicken', 'Bunny', 'Tomato', 'Rice', 'Chorizo', 'Green beans'],
+    choices: ['Chicken', 'Bunny', 'Tomato', 'Rice', 'Green beans'],
     filter: function (val) {
       return val.toLowerCase().replace(' ', '_');
     }
